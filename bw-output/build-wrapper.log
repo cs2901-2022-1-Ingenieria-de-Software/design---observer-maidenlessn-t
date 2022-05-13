@@ -1,0 +1,17 @@
+Thu May 12 21:13:26 2022: build-wrapper, version 6.33 (win-x86-64)
+Thu May 12 21:13:26 2022: isWow64: 0
+Thu May 12 21:13:26 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Thu May 12 21:13:26 2022: current directory: C:\Users\mauri\source\repos\Software\design---observer-maidenlessn-t
+Thu May 12 21:13:26 2022: cwd: <C:\Users\mauri\source\repos\Software\design---observer-maidenlessn-t>
+Thu May 12 21:13:26 2022: out-dir absolute path: <C:\Users\mauri\source\repos\Software\design---observer-maidenlessn-t\bw-output>
+Thu May 12 21:13:26 2022: command line received: <cmake --build build/ --config Release --target Debug>
+Thu May 12 21:13:26 2022: initializing json file
+Thu May 12 21:13:26 2022: starting debug cycle
+Thu May 12 21:13:26 2022: process created with pid: 1804
+Thu May 12 21:13:26 2022: image path name: <C:\Program Files\CMake\bin\cmake.exe>
+Thu May 12 21:13:26 2022: command line: <cmake --build build/ --config Release --target Debug>
+Thu May 12 21:13:26 2022: working directory: <C:\Users\mauri\source\repos\Software\design---observer-maidenlessn-t\>
+Thu May 12 21:13:26 2022: isWow64: 0
+Thu May 12 21:13:26 2022: skipping process C:\Program Files\CMake\bin\cmake.exe with pid: 1804
+Thu May 12 21:13:26 2022: process with pid 1804 exit with code: 1 (0x1)
+Thu May 12 21:13:26 2022: finalizing json file
