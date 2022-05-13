@@ -1,3 +1,0 @@
-C:/Users/mauri/source/repos/Software/design---observer-maidenlessn-t/build/CMakeFiles/OBSERVER.dir
-C:/Users/mauri/source/repos/Software/design---observer-maidenlessn-t/build/CMakeFiles/edit_cache.dir
-C:/Users/mauri/source/repos/Software/design---observer-maidenlessn-t/build/CMakeFiles/rebuild_cache.dir

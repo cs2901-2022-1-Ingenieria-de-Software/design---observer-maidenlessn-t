@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/mauri/source/repos/Software/design---observer-maidenlessn-t/build",
-  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++17 -o CMakeFiles\\OBSERVER.dir\\src\\main.cpp.obj -c C:\\Users\\mauri\\source\\repos\\Software\\design---observer-maidenlessn-t\\src\\main.cpp",
-  "file": "C:/Users/mauri/source/repos/Software/design---observer-maidenlessn-t/src/main.cpp"
-}
-]
