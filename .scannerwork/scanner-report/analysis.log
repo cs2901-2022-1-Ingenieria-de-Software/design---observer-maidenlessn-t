@@ -69,6 +69,6 @@ Project scanner properties:
   - sonar.scanner.app=ScannerCLI
   - sonar.scanner.appVersion=4.7.0.2747
   - sonar.sourceEncoding=windows-1252
-  - sonar.sources=src
+  - sonar.sources=.
   - sonar.verbose=true
   - sonar.working.directory=C:\Users\mauri\source\repos\Software\design---observer-maidenlessn-t\.scannerwork

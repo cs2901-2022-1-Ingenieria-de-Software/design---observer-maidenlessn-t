@@ -22,10 +22,10 @@ U
 cppS12388Pass expensive to copy object "f" by reference to const. 2%% !C
 cppS5817)This function should be declared "const". 2)) á
 cppS5414*Don't mix public and private data members. 255 :#
-!77 Private data member:#
-!88 Private data member:#
-!99 Private data member:,
-*;; $Public non-const data memberC
+!77 Private data member:#
+!88 Private data member:#
+!99 Private data member:,
+*;; $Public non-const data memberC
 cppS5817)This function should be declared "const". 2CC C
 cppS5817)This function should be declared "const". 2II "C
 cppS5817)This function should be declared "const". 2LL C
@@ -71,32 +71,32 @@ U
 cppS5817)This function should be declared "const". 2
 ññ Ã
 cppS836*The left operand of '+' is a garbage value 2}} :ý
-8}} *The left operand of '+' is a garbage value
-6{{ ('temp' declared without an initial value
-!uu Taking false branch
--uu 'Assuming the condition is false
-7
+8}} *The left operand of '+' is a garbage value
+6{{ ('temp' declared without an initial value
+!uu Taking false branch
+-uu 'Assuming the condition is false
+7
 ¦¦ 'Calling 'ForecastObserver::set_average'Ã
 cppS836*The left operand of '/' is a garbage value 2~~# $:ý
-8~~# $*The left operand of '/' is a garbage value
-6{{ ('temp' declared without an initial value
-!uu Taking false branch
--uu 'Assuming the condition is false
-7
+8~~# $*The left operand of '/' is a garbage value
+6{{ ('temp' declared without an initial value
+!uu Taking false branch
+-uu 'Assuming the condition is false
+7
 ¦¦ 'Calling 'ForecastObserver::set_average'ù
 cppS836*The left operand of '+' is a garbage value 2
 ìì :±
-:
+:
 ìì *The left operand of '+' is a garbage value
-9
+9
 êê )'total' declared without an initial value
-8
+8
 ÓÓ *(Calling 'StatisticsObserver::getAverage'ù
 cppS836*The left operand of '/' is a garbage value 2
 îî :±
-:
+:
 îî *The left operand of '/' is a garbage value
-9
+9
 êê )'total' declared without an initial value
-8
+8
 ÓÓ *(Calling 'StatisticsObserver::getAverage'

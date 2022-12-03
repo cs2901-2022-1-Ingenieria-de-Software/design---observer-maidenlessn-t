@@ -13,4 +13,4 @@ CFamily plugin supports incremental analysis with the use of a cache:
 
 * visit the documentation page for more information
   https://sonarcloud.io/documentation/analysis/languages/cfamily/
-ÊÏÌØ‹0
+¿Úô¦0
